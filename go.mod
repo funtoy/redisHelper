@@ -1,4 +1,4 @@
-module github.com/funtoy/sun-group/redisHelper
+module github.com/funtoy/redisHelper
 
 go 1.13
 
